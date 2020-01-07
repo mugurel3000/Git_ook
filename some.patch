@@ -1,0 +1,9 @@
+diff --git a/some.file b/some.file
+index 49b91f2..528a14f 100644
+--- a/some.file
++++ b/some.file
+@@ -4,3 +4,4 @@
+ test.txt 
+ "test_mail" 
+ "test max" 
++"Patch changes" 
